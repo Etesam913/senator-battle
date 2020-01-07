@@ -3,9 +3,10 @@ import { motion } from "framer-motion";
 import styled from "styled-components";
 import { Router, Link } from "@reach/router";
 import "./HomepageCSS.css";
-import CapitolHill from "./CapitolHill.jpg";
 import ComparisonPage from "./ComparisonPage";
 import { Mobile, Desktop, Tablet } from 'react-responsive-simple';
+import {Helmet} from 'react-helmet';
+import Sword from './sword.png'
 import * as d3 from "d3-fetch";
 const Page = styled.div`
     position: absolute;
@@ -160,6 +161,10 @@ function Homepage() {
     );
     return (
         <Page>
+        <Helmet>
+            <title>Senator Battle</title>
+            <link rel="icon" href={Sword} />
+        </Helmet>
             <Router>
                 <Home path="/" />
             </Router>
