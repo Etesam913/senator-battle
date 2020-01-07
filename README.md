@@ -5,4 +5,4 @@
 
 ## A Matchup Between Chuck Schumer and Mitch Mcconnell
 ![MatchupPage](screenshots/AttackPage.png)
-Schumer lands an attack of Mcconnell
+Schumer lands an attack on Mcconnell
