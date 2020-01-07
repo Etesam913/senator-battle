@@ -1,0 +1,504 @@
+{
+ "senators": [
+  {
+   "name": "Bernie Sanders (I-VT), alt: Bernard",
+   "approval_rating": "65%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Patrick Leahy (D-VT)",
+   "approval_rating": "63%",
+   "disapproval_rating": "24%"
+  },
+  {
+   "name": "John Barrasso (R-WY)",
+   "approval_rating": "59%",
+   "disapproval_rating": "26%"
+  },
+  {
+   "name": "Angus King (I-ME)",
+   "approval_rating": "57%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Mike Enzi (R-WY)",
+   "approval_rating": "56%",
+   "disapproval_rating": "23%"
+  },
+  {
+   "name": "John Hoeven (R-ND)",
+   "approval_rating": "56%",
+   "disapproval_rating": "22%"
+  },
+  {
+   "name": "Amy Klobuchar (D-MN)",
+   "approval_rating": "55%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Jeanne Shaheen (D-NH)",
+   "approval_rating": "54%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "John Thune (R-SD)",
+   "approval_rating": "54%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Chris Coons (D-DE)",
+   "approval_rating": "52%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Mitt Romney (R-UT)",
+   "approval_rating": "52%",
+   "disapproval_rating": "33%"
+  },
+  {
+   "name": "Mike Rounds (R-SD)",
+   "approval_rating": "52%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Maggie Hassan (D-NH), alt: Margaret",
+   "approval_rating": "51%",
+   "disapproval_rating": "33%"
+  },
+  {
+   "name": "Ed Markey (D-MA)",
+   "approval_rating": "51%",
+   "disapproval_rating": "25%"
+  },
+  {
+   "name": "Brian Schatz (D-HI)",
+   "approval_rating": "51%",
+   "disapproval_rating": "28%"
+  },
+  {
+   "name": "Tom Carper(D-DE), alt: Thomas",
+   "approval_rating": "50%",
+   "disapproval_rating": "28%"
+  },
+  {
+   "name": "Jack Reed (D-RI)",
+   "approval_rating": "50%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Ben Sasse (R-NE)",
+   "approval_rating": "50%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Tim Scott (R-SC)",
+   "approval_rating": "50%",
+   "disapproval_rating": "25%"
+  },
+  {
+   "name": "Sheldon Whitehouse (D-RI)",
+   "approval_rating": "50%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "John Boozman (R-AR)",
+   "approval_rating": "49%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Maria Cantwell (D-WA)",
+   "approval_rating": "49%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Ben Cardin (D-MD), alt: Benjamin",
+   "approval_rating": "49%",
+   "disapproval_rating": "23%"
+  },
+  {
+   "name": "Ted Cruz (R-TX)",
+   "approval_rating": "49%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Lindsey Graham (R-SC)",
+   "approval_rating": "49%",
+   "disapproval_rating": "35%"
+  },
+  {
+   "name": "David Perdue (R-GA)",
+   "approval_rating": "49%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Jon Tester (D-MT)",
+   "approval_rating": "49%",
+   "disapproval_rating": "39%"
+  },
+  {
+   "name": "Mark Warner (D-VA)",
+   "approval_rating": "49%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Elizabeth Warren (D-MA)",
+   "approval_rating": "49%",
+   "disapproval_rating": "41%"
+  },
+  {
+   "name": "Tom Cotton (R-AR)",
+   "approval_rating": "48%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Kevin Cramer (R-ND)",
+   "approval_rating": "48%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Mike Crapo (R-ID)",
+   "approval_rating": "48%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Joe Manchin (D-WV)",
+   "approval_rating": "48%",
+   "disapproval_rating": "42%"
+  },
+  {
+   "name": "Chris Murphy (D-CT)",
+   "approval_rating": "48%",
+   "disapproval_rating": "35%"
+  },
+  {
+   "name": "Patty Murray (D-WA)",
+   "approval_rating": "48%",
+   "disapproval_rating": "29%"
+  },
+  {
+   "name": "Chuck Schumer (D-NY)",
+   "approval_rating": "48%",
+   "disapproval_rating": "35%"
+  },
+  {
+   "name": "Ron Wyden (D-OR)",
+   "approval_rating": "48%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Tammy Baldwin (D-WI)",
+   "approval_rating": "47%",
+   "disapproval_rating": "37%"
+  },
+  {
+   "name": "Richard Blumenthal (D-CT)",
+   "approval_rating": "47%",
+   "disapproval_rating": "38%"
+  },
+  {
+   "name": "Sherrod Brown (D-OH)",
+   "approval_rating": "47%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Shelley Moore Capito (R-WV)",
+   "approval_rating": "47%",
+   "disapproval_rating": "33%"
+  },
+  {
+   "name": "Steve Daines (R-MT)",
+   "approval_rating": "47%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Marco Rubio (R-FL)",
+   "approval_rating": "47%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Rick Scott (R-FL)",
+   "approval_rating": "47%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Kyrsten Sinema (D-AZ)",
+   "approval_rating": "47%",
+   "disapproval_rating": "29%"
+  },
+  {
+   "name": "Roger Wicker (R-MS)",
+   "approval_rating": "47%",
+   "disapproval_rating": "28%"
+  },
+  {
+   "name": "Marsha Blackburn (R-TN)",
+   "approval_rating": "46%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Cory Booker (D-NJ)",
+   "approval_rating": "46%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Mazie Hirono (D-HI)",
+   "approval_rating": "46%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Cindy Hyde-Smith (R-MS)",
+   "approval_rating": "46%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "James Inhofe (R-OK)",
+   "approval_rating": "46%",
+   "disapproval_rating": "29%"
+  },
+  {
+   "name": "Tim Kaine (D-VA)",
+   "approval_rating": "46%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "John Kennedy (R-LA)",
+   "approval_rating": "46%",
+   "disapproval_rating": "26%"
+  },
+  {
+   "name": "James Lankford (R-OK)",
+   "approval_rating": "46%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Mike Lee (R-UT)",
+   "approval_rating": "46%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Jim Risch (R-ID)",
+   "approval_rating": "46%",
+   "disapproval_rating": "28%"
+  },
+  {
+   "name": "Chris Van Hollen (D-MD)",
+   "approval_rating": "46%",
+   "disapproval_rating": "22%"
+  },
+  {
+   "name": "Bill Cassidy (R-LA)",
+   "approval_rating": "45%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "Richard Shelby (R-AL)",
+   "approval_rating": "45%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Debbie Stabenow (D-MI)",
+   "approval_rating": "45%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Mike Braun (R-IN)",
+   "approval_rating": "44%",
+   "disapproval_rating": "27%"
+  },
+  {
+   "name": "John Cornyn (R-TX)",
+   "approval_rating": "44%",
+   "disapproval_rating": "26%"
+  },
+  {
+   "name": "Johnny Isakson (R-GA)",
+   "approval_rating": "44%",
+   "disapproval_rating": "26%"
+  },
+  {
+   "name": "Jeff Merkley (D-OR)",
+   "approval_rating": "44%",
+   "disapproval_rating": "28%"
+  },
+  {
+   "name": "Lamar Alexander (R-TN)",
+   "approval_rating": "43%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Bob Casey (D-PA)",
+   "approval_rating": "43%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Susan Collins (R-ME)",
+   "approval_rating": "43%",
+   "disapproval_rating": "49%"
+  },
+  {
+   "name": "Dianne Feinstein (D-CA)",
+   "approval_rating": "43%",
+   "disapproval_rating": "38%"
+  },
+  {
+   "name": "Deb Fischer (R-NE)",
+   "approval_rating": "43%",
+   "disapproval_rating": "40%"
+  },
+  {
+   "name": "Kirsten Gillibrand (D-NY)",
+   "approval_rating": "43%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Chuck Grassley (R-IA)",
+   "approval_rating": "43%",
+   "disapproval_rating": "41%"
+  },
+  {
+   "name": "Kamala Harris (D-CA)",
+   "approval_rating": "43%",
+   "disapproval_rating": "35%"
+  },
+  {
+   "name": "Josh Hawley (R-MO)",
+   "approval_rating": "43%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Martin Heinrich (D-NM)",
+   "approval_rating": "43%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Tom Udall (D-NM)",
+   "approval_rating": "43%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Tammy Duckworth (D-IL)",
+   "approval_rating": "42%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Jerry Moran (R-KS)",
+   "approval_rating": "42%",
+   "disapproval_rating": "29%"
+  },
+  {
+   "name": "Tina Smith (D-MN)",
+   "approval_rating": "42%",
+   "disapproval_rating": "29%"
+  },
+  {
+   "name": "Dan Sullivan (R-AK)",
+   "approval_rating": "42%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Todd Young (R-IN)",
+   "approval_rating": "42%",
+   "disapproval_rating": "25%"
+  },
+  {
+   "name": "Catherine Cortez Masto (D-NV)",
+   "approval_rating": "41%",
+   "disapproval_rating": "30%"
+  },
+  {
+   "name": "Ron Johnson (R-WI)",
+   "approval_rating": "41%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Doug Jones (D-AL)",
+   "approval_rating": "41%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Michael Bennet (D-CO)",
+   "approval_rating": "40%",
+   "disapproval_rating": "33%"
+  },
+  {
+   "name": "Lisa Murkowski (R-AK)",
+   "approval_rating": "40%",
+   "disapproval_rating": "39%"
+  },
+  {
+   "name": "Rand Paul (R-KY)",
+   "approval_rating": "40%",
+   "disapproval_rating": "40%"
+  },
+  {
+   "name": "Rob Portman (R-OH)",
+   "approval_rating": "40%",
+   "disapproval_rating": "32%"
+  },
+  {
+   "name": "Roy Blunt (R-MO)",
+   "approval_rating": "39%",
+   "disapproval_rating": "38%"
+  },
+  {
+   "name": "Dick Durbin (D-IL)",
+   "approval_rating": "39%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Joni Ernst (R-IA)",
+   "approval_rating": "39%",
+   "disapproval_rating": "43%"
+  },
+  {
+   "name": "Martha McSally (R-AZ)",
+   "approval_rating": "39%",
+   "disapproval_rating": "37%"
+  },
+  {
+   "name": "Jacky Rosen (D-NV)",
+   "approval_rating": "39%",
+   "disapproval_rating": "31%"
+  },
+  {
+   "name": "Pat Toomey (R-PA)",
+   "approval_rating": "39%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Pat Roberts (R-KS)",
+   "approval_rating": "38%",
+   "disapproval_rating": "36%"
+  },
+  {
+   "name": "Richard Burr (R-NC)",
+   "approval_rating": "37%",
+   "disapproval_rating": "34%"
+  },
+  {
+   "name": "Mitch McConnell (R-KY)",
+   "approval_rating": "37%",
+   "disapproval_rating": "50%"
+  },
+  {
+   "name": "Cory Gardner (R-CO)",
+   "approval_rating": "36%",
+   "disapproval_rating": "39%"
+  },
+  {
+   "name": "Gary Peters (D-MI)",
+   "approval_rating": "36%",
+   "disapproval_rating": "28%"
+  },
+  {
+   "name": "Bob Menendez (D-NJ)",
+   "approval_rating": "34%",
+   "disapproval_rating": "43%"
+  },
+  {
+   "name": "Thom Tillis (R-NC)",
+   "approval_rating": "33%",
+   "disapproval_rating": "38%"
+  }
+ ]
+}
