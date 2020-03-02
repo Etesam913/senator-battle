@@ -44,7 +44,8 @@ const Description = styled.div`
 `;
 const NamesContainer = styled.div`
     overflow: scroll;
-    height: 10rem;
+    height: 25rem;
+    overflow-x: hidden;
     font-weight: normal;
     text-align: left;
     border-style: solid;
