@@ -2,13 +2,11 @@ import React, { useState, useEffect } from 'react';
 import { motion, useAnimation } from "framer-motion";
 import styled from "styled-components";
 import * as d3 from "d3-fetch";
-import { tsConstructorType } from '@babel/types';
 import PicsJSON from './ProfilePics.json';
 import Ratings from './SenatorRatings.json';
 import Checkmark from './checkmark.png';
 import media from "./media";
 import Sword from './sword.png'
-import { MobileAndTablet, Desktop, Tablet } from 'react-responsive-simple';
 const Subtitle = styled(motion.div)`
   font-weight: bold;
   font-size: 1.2rem;
@@ -579,8 +577,8 @@ function ComparisonPage(props) {
             <Subtitle initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.4 }}> Senator  {senator2Obj.first_name + " " + senator2Obj.last_name} </Subtitle>
           </SenatorBio>
           <SenatorStatistics>
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.8 }}>Bills Sponsored Per Year: {senator2AvgBillsSponsored}</motion.p>
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 2.2 }}>Bills Co-Sponsored Per Year: {senator2AvgBillsCosponsored}</motion.p>
+            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.8 }}>Bills Sponsored Per Term: {senator2AvgBillsSponsored}</motion.p>
+            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 2.2 }}>Bills Co-Sponsored Per Term: {senator2AvgBillsCosponsored}</motion.p>
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 2.6 }}>% Votes Missed: {senator2Obj.missed_votes_pct}%</motion.p>
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 3 }}>Approval Rating: {getRatings(props.name2)[0]}</motion.p>
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 3.4 }}>Disapproval Rating: {getRatings(props.name2)[1]} </motion.p>

@@ -71,7 +71,7 @@ function Homepage() {
         };
         request(options, function (err, res, json) {
             if (err) {
-                if (err.name == 'NetworkError') {
+                if (err.name === 'NetworkError') {
                     console.log('There was a network error.');
                 }
 
